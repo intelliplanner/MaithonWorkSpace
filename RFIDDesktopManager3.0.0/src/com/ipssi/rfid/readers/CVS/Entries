@@ -1,0 +1,16 @@
+/CommandData.java/1.1/Sat Apr 21 04:06:44 2018//
+/RFIDConfig.java/1.1/Sat Apr 21 04:06:44 2018//
+/RFIDDataHandler.java/1.3/Sat Apr 21 04:06:44 2018//
+/RFIDDataProcessor.java/1.9/Fri May  4 09:17:26 2018//
+/RFIDEncoding.java/1.1/Sat Apr 21 04:06:44 2018//
+/RFIDException.java/1.1/Sat Apr 21 04:06:44 2018//
+/RFIDMaster.java/1.4/Sat Apr 21 04:06:44 2018//
+/RFIDReaderSerialClient.java/1.4/Sat Apr 21 04:06:44 2018//
+/RFIDReaderTCPClient.java/1.4/Sat Apr 21 04:06:44 2018//
+/RFIDReaderUHFClient.java/1.3/Sat Apr 21 04:06:44 2018//
+/ReaderI.java/1.1/Sat Apr 21 04:06:44 2018//
+/TAGListener.java/1.2/Sat Apr 21 04:06:44 2018//
+/TagDataHandler.java/1.1/Sat Apr 21 04:06:44 2018//
+/TestBypass.java/1.1/Sat Apr 21 04:06:44 2018//
+/UIHandler.java/1.1/Sat Apr 21 04:06:44 2018//
+/VerhoeffAlgorithm.java/1.1/Sat Apr 21 04:06:44 2018//

@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jssc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bridj-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/APTDemo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.eclipse.persistence.jpa.jpql_1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/webcam-capture-0.3.11-20150416.101652-7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-0.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-0.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/morphosmart-sdk-6.13.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msosecu-6.13.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swingx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/eclipselink-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/UHF.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/uk.co.mmscomputing.device.twain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

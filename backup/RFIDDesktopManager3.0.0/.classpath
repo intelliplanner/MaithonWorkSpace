@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="log4j"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_25"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jssc.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-0.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-0.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/morphosmart-sdk-6.13.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/msosecu-6.13.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.persistence.jpa.jpql_1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/swingx.jar"/>
+	<classpathentry kind="lib" path="lib/UHF.jar"/>
+	<classpathentry kind="lib" path="lib/uk.co.mmscomputing.device.twain.jar"/>
+	<classpathentry kind="lib" path="lib/webcam-capture-0.3.11-20150416.101652-7.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/server/default/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/lib/GpsProjectUtils.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/lib/xercesImpl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

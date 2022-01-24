@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/server/default/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="lib/morphosmart-sdk-6.13.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/msosecu-6.13.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_15"/>
+	<classpathentry kind="lib" path="lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/webcam-capture-0.3.11-20150416.101652-7.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.0.wso2v1.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/jssc.jar"/>
+	<classpathentry kind="lib" path="lib/uk.co.mmscomputing.device.twain.jar"/>
+	<classpathentry kind="lib" path="lib/UHF.jar"/>
+	<classpathentry kind="lib" path="lib/swingx.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.persistence.jpa.jpql_1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/server/default/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/jboss-4.2.3.GA/server/default/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/IntelliPlanner Workspaces/MaithonWorkSpace/lib/GpsProjectUtilsMaithon.jar" sourcepath="/GpsProjectUtilsMaithon"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
